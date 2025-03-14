@@ -5,3 +5,7 @@
 ![Screenshot from 2025-01-18 13-43-41](https://github.com/user-attachments/assets/f8b54cad-ec48-4fd1-8220-710494c1daa0)
 Create and pulling Docker image in Docker HUB and PUSH
 ![Screenshot from 2025-01-19 13-29-47](https://github.com/user-attachments/assets/e407af09-91c5-4b94-a0b8-8eb12fc97661)
+
+Create new host-port for nginx , and Logs 
+![Screenshot from 2025-03-14 13-20-10](https://github.com/user-attachments/assets/8e82268e-24b5-429b-9fde-0dd35a2add42)
+![Screenshot from 2025-03-14 13-20-22](https://github.com/user-attachments/assets/e9fbbcca-5e89-4fb0-8b41-be7fcb179b2d)
