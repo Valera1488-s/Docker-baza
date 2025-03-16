@@ -9,3 +9,9 @@ Create and pulling Docker image in Docker HUB and PUSH
 Create new host-port for nginx , and Logs 
 ![Screenshot from 2025-03-14 13-20-10](https://github.com/user-attachments/assets/8e82268e-24b5-429b-9fde-0dd35a2add42)
 ![Screenshot from 2025-03-14 13-20-22](https://github.com/user-attachments/assets/e9fbbcca-5e89-4fb0-8b41-be7fcb179b2d)
+Create Docker image python + flask ,build,run,test
+![Screenshot from 2025-03-16 11-54-29](https://github.com/user-attachments/assets/86c96e67-9188-4d65-b70c-c027c2e8f5fc)
+![Screenshot from 2025-03-16 12-08-29](https://github.com/user-attachments/assets/442219a4-832a-45be-88dc-84126fd333cf)
+![Screenshot from 2025-03-16 12-09-05](https://github.com/user-attachments/assets/4d8938c4-f695-4583-b46a-efee31350a60)
+![Screenshot from 2025-03-16 12-10-11](https://github.com/user-attachments/assets/be375f90-8192-453e-94d0-0f419dc310c9)
+![Screenshot from 2025-03-16 12-12-06](https://github.com/user-attachments/assets/e8ff98a3-bc15-4ff5-8afe-b173562616f5)
