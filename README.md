@@ -18,3 +18,5 @@ Create Docker image python + flask ,build,run,test
 DOCKER COMPOSE + PORTAINER 
 ![docker compose -portainer 3](https://github.com/user-attachments/assets/183bca79-d47c-4f59-ac37-f453f85e7624)
 ![docker compose - portainer 2](https://github.com/user-attachments/assets/50b353a9-c111-4afb-ad48-e33beb1a2ea3)
+DOCKER COMPOSE + PROMETHEUS && GRAFANA ![promethheus+grafana+compose](https://github.com/user-attachments/assets/e8ab451f-3467-4b00-a88a-2f8cdaa24595)
+![promethheus+grafana+compose 2](https://github.com/user-attachments/assets/d25c08b9-24c3-479f-9fb1-b5127ee16ae7)
