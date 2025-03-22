@@ -15,3 +15,6 @@ Create Docker image python + flask ,build,run,test
 ![Screenshot from 2025-03-16 12-09-05](https://github.com/user-attachments/assets/4d8938c4-f695-4583-b46a-efee31350a60)
 ![Screenshot from 2025-03-16 12-10-11](https://github.com/user-attachments/assets/be375f90-8192-453e-94d0-0f419dc310c9)
 ![Screenshot from 2025-03-16 12-12-06](https://github.com/user-attachments/assets/e8ff98a3-bc15-4ff5-8afe-b173562616f5)
+DOCKER COMPOSE + PORTAINER 
+![docker compose -portainer 3](https://github.com/user-attachments/assets/183bca79-d47c-4f59-ac37-f453f85e7624)
+![docker compose - portainer 2](https://github.com/user-attachments/assets/50b353a9-c111-4afb-ad48-e33beb1a2ea3)
